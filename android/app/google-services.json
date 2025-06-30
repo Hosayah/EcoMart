@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "811750763150",
+    "project_id": "ecomart-974cf",
+    "storage_bucket": "ecomart-974cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811750763150:android:562fb2a71ae587780ef7df",
+        "android_client_info": {
+          "package_name": "com.catabay.ecomart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811750763150-jmomn8bcbhaeon2h23v0cd6trhkfgrsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.catabay.ecomart",
+            "certificate_hash": "a51349e6aff82b1187f21a7dea31c959356bc4b9"
+          }
+        },
+        {
+          "client_id": "811750763150-sq4jp9c4kjqmb0bq9660ev7n26kq3isq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNB7-AelOrr8dE5Ols8L7-U4CXJqfUrCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811750763150-sq4jp9c4kjqmb0bq9660ev7n26kq3isq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811750763150-knou98gaounspshq23lo6p197acn6be4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.catabay.ecomart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
